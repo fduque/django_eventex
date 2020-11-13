@@ -3,6 +3,8 @@
 
 Sistema de Eventos encomendado pela Morena
 
+[![Build Status](https://travis-ci.com/fduque/django_eventex.svg?branch=master)](https://travis-ci.com/fduque/django_eventex)
+
 ## Como desenvolver?
 
 1. Clone o repositorio
